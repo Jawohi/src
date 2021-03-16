@@ -100,25 +100,9 @@ namespace Konya_Hiermayer.Packages.BL
                 {
                     if (ha.DateTime < DateTime.Now )
                     {
-                        // beide listen befüllen
+                        
                         pastHop.Add(ha);
-                /*
-                        try
-                        {
-                            
-                            logger.LogInformation($"updating parcel {trackingId}");
-                            parcelRepository.Update(this.mapper.Map<Data.Parcel>(businessParcel));
-                            List<Data.Webhook> dataWebhooks = webhookRepository.GetByTrackingId(trackingId);
-                            List<Webhook> webhooks = new List<Webhook>();
-                            dataWebhooks.ForEach(hook => webhooks.Add(this.mapper.Map<Webhook>(hook)));
-                            NotifyAllSubscribers(webhooks);
-                            
-                        }
-                        catch (DataAccessLayerException e)
-                        {
-                            throw new BusinessLayerException("DAL Exception", e);
-                        }   
-                */        
+               
                     } else 
                     {
                         soonHop.Add(ha);
