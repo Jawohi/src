@@ -44,4 +44,12 @@ namespace Konya_Hiermayer.Packages.BL.Exceptions
             base.exceptionName = this.GetType().Name;
         }
     }
+
+    public class NoPathFoundException : BusinessException
+    {
+        public NoPathFoundException(string message) : base(message)
+        {
+            base.exceptionName = this.GetType().Name;
+        }
+    }
 }

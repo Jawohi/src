@@ -74,10 +74,10 @@ namespace Konya_Hiermayer.Packages.DAL.SQL
             }
         }
 
-        private List<Hop> CheckNextHop(Warehouse hirarchy, string code)
+        private List<Hop> CheckNextHop(Warehouse hierarchy, string code)
         {
             List<Hop> route = new List<Hop>();
-            foreach (WarehouseNextHops whnh in hirarchy.NextHops)
+            foreach (WarehouseNextHops whnh in hierarchy.NextHops)
             {
                 if (whnh.SecondHop.Description.Contains("Truck") || whnh.SecondHop.Description.Contains("Transferwarehouse"))
                 {

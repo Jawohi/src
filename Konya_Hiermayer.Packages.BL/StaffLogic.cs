@@ -162,7 +162,7 @@ namespace Konya_Hiermayer.Packages.BL
 
             logger.LogDebug($"calculating route betweend sender {senderHop.Code} and recipeint {recipientHop.Code}");
             List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code, businessParcel.EntryDate);
-
+            //List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code);    
 
             bool checkIfOnRoute = false;
 

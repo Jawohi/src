@@ -1,0 +1,9 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csprojAssemblyReference.cache

@@ -34,6 +34,5 @@
     <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.SQL\Konya_Hiermayer.Packages.DAL.SQL.csproj"/>
     <ProjectReference Include="..\Konya_Hiermayer.Packages.Mapping\Konya_Hiermayer.Packages.Mapping.csproj"/>
     <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.Interfaces\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"/>
-
   </ItemGroup>
 </Project>

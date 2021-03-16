@@ -87,11 +87,13 @@ namespace Konya_Hiermayer.Packages.BL
             Hop recipientHop = this.mapper.Map<Hop>(dataRecipientHop);
             Warehouse warehouse = this.mapper.Map<Warehouse>(dataWarehouse);
 
+            logger.LogDebug($"Submiting parcel {parcelID}");
+            parcel.Submit(parcelID);
+            
             logger.LogDebug($"calculating route betweend sender {senderHop.Code} and recipeint {recipientHop.Code}");
             List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code, parcel.EntryDate);
 
-            logger.LogDebug($"Submiting parcel {parcelID}");
-            parcel.Submit(parcelID);
+          
             
 
             logger.LogDebug($"validating parcel ({parcelID})");

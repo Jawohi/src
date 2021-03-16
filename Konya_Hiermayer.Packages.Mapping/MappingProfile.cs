@@ -116,7 +116,7 @@ namespace Konya_Hiermayer.Packages.Mapping
                 .ForMember(dest => dest.Weight, opt => opt.MapFrom(src => src.Weight))
                 .ForMember(dest => dest.Hops, opt => opt.MapFrom(src => src.VisitedHops))
                 .ForMember(dest => dest.EntryDate, opt => opt.MapFrom(src => src.EntryDate));
-                
+
 
             CreateMap<Data.Parcel, Business.Parcel>();
 

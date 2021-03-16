@@ -2,6 +2,7 @@
 using Konya_Hiermayer.Packages.BL.Entities;
 using Konya_Hiermayer.Packages.BL.Interfaces;
 using Konya_Hiermayer.Packages.DAL.SQL;
+using Konya_Hiermayer.Packages.BL.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,6 +12,7 @@ namespace Konya_Hiermayer.Packages.BL
     public class RouteCalculator : IRouteCalculator
     {
         public List<HopArrival> CalculateRoute(Warehouse hierarchy, string codeSender, string codeRecipient, DateTime? entryDate)
+        //public List<HopArrival> CalculateRoute(Warehouse hierarchy, string codeSender, string codeRecipient)
         {
             List<Hop> pathSender = new PathFinder().CalculateRoute(hierarchy, codeSender);
             List<Hop> pathRecipient = new PathFinder().CalculateRoute(hierarchy, codeRecipient);
@@ -28,10 +30,12 @@ namespace Konya_Hiermayer.Packages.BL
             }
 
             return CalculateTravelTime(route, entryDate);
+            //return CalculateTravelTime(route);
         }
 
 
         private List<HopArrival> CalculateTravelTime(List<Hop> route, DateTime? travelDates)
+        //private List<HopArrival> CalculateTravelTime(List<Hop> route)
         {
             List<HopArrival> hopArrivals = new List<HopArrival>();
             DateTime travelDate = (DateTime)travelDates;
@@ -59,7 +63,7 @@ namespace Konya_Hiermayer.Packages.BL
 
         private int FindCrossingWarehouseIndex(List<Hop> pathSender, List<Hop> pathRecipient)
         {
-            //iterate List backwards
+        
             for (int i = pathSender.Count - 1; i >= 0; i--)
             {
                 if (pathSender[i].Code == pathRecipient[i].Code)
@@ -67,7 +71,7 @@ namespace Konya_Hiermayer.Packages.BL
                     return i;
                 }
             }
-            throw new Exception(); //TODO: Austauschen keinen gemeinsamen Pfad gefunden
+            throw new NoPathFoundException(" No Matching Path Found");
         }
     }
 
@@ -75,18 +79,18 @@ namespace Konya_Hiermayer.Packages.BL
     {
         string code;
 
-        public List<Hop> CalculateRoute(Warehouse hirarchy, string code)
+        public List<Hop> CalculateRoute(Warehouse hierarchy, string code)
         {
             this.code = code;
-            List<Hop> route = CheckNextHop(hirarchy);
-            route.Insert(0, hirarchy);
+            List<Hop> route = CheckNextHop(hierarchy);
+            route.Insert(0, hierarchy);
             return route;
         }
 
-        private List<Hop> CheckNextHop(Warehouse hirarchy)
+        private List<Hop> CheckNextHop(Warehouse hierarchy)
         {
             List<Hop> route = new List<Hop>();
-            foreach (WarehouseNextHops whnh in hirarchy.NextHops)
+            foreach (WarehouseNextHops whnh in hierarchy.NextHops)
             {
                 if (whnh.Hop.Description.Contains("Truck") || whnh.Hop.Description.Contains("Transferwarehouse"))
                 {

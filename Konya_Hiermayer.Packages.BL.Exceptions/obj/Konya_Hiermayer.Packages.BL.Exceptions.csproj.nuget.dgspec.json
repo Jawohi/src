@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {}
+    "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {
+    "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj",
         "projectName": "Konya_Hiermayer.Packages.BL.Exceptions",
-        "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\obj\\",
+        "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\hierm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hierm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
