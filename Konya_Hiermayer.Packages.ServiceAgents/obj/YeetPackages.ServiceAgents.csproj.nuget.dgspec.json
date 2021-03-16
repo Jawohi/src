@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj": {}
+  },
+  "projects": {
+    "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj",
+        "projectName": "Konya_Hiermayer.Packages.ServiceAgents.Interfaces",
+        "projectPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Morris\\.nuget\\packages\\",
+        "outputPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Morris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Geocoding.Core": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
+        "projectName": "Konya_Hiermayer.Packages.ServiceAgents",
+        "projectPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
+        "packagesPath": "C:\\Users\\Morris\\.nuget\\packages\\",
+        "outputPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Morris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+                "projectPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Geocoding.Core": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Nominatim.API": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

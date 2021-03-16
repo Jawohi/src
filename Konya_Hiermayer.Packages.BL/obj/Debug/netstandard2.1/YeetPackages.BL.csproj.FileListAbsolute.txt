@@ -1,0 +1,82 @@
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.deps.json
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Interfaces.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Interfaces.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csproj.CopyComplete
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.deps.json
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Interfaces.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Mapping.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Mapping.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Interfaces.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csprojAssemblyReference.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.AssemblyInfo.cs
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csproj.CopyComplete
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.deps.json
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Interfaces.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Mapping.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Mapping.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Interfaces.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csprojAssemblyReference.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.AssemblyInfoInputs.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.AssemblyInfo.cs
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csproj.CoreCompileInputs.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.csproj.CopyComplete
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Mapping.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Mapping.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.pdb

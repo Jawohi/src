@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0"/>
+    <PackageReference Include="xunit" Version="2.4.0"/>
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0"/>
+    <PackageReference Include="coverlet.collector" Version="1.2.0"/>
+    <PackageReference Include="Moq" Version="4.15.2"/>
+    <PackageReference Include="AutoMapper" Version="10.1.1"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Exceptions\Konya_Hiermayer.Packages.BL.Exceptions.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Interfaces\Konya_Hiermayer.Packages.BL.Interfaces.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Entities\Konya_Hiermayer.Packages.BL.Entities.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL\Konya_Hiermayer.Packages.BL.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.Mapping\Konya_Hiermayer.Packages.Mapping.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.Interfaces\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.deps.json
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csproj.CopyComplete
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.deps.json
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csprojAssemblyReference.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.AssemblyInfo.cs
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csproj.CopyComplete
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.deps.json
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csprojAssemblyReference.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.AssemblyInfoInputs.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.AssemblyInfo.cs
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csproj.CoreCompileInputs.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.csproj.CopyComplete
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.ServiceAgents\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.pdb

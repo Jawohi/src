@@ -1,0 +1,27 @@
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.deps.json
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.deps.json
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csprojAssemblyReference.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfo.cs
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\Users\artis\Desktop\New folder\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.deps.json
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csprojAssemblyReference.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfoInputs.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.AssemblyInfo.cs
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.csproj.CoreCompileInputs.cache
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.dll
+C:\sks_neww\swagger_new\src\Konya_Hiermayer.Packages.BL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Exceptions.pdb

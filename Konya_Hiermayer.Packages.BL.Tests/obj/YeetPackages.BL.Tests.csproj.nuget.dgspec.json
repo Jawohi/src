@@ -1,0 +1,779 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Tests\\Konya_Hiermayer.Packages.BL.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj",
+        "projectName": "Konya_Hiermayer.Packages.BL.Entities",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj",
+        "projectName": "Konya_Hiermayer.Packages.BL.Exceptions",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj",
+        "projectName": "Konya_Hiermayer.Packages.BL.Interfaces",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Tests\\Konya_Hiermayer.Packages.BL.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Tests\\Konya_Hiermayer.Packages.BL.Tests.csproj",
+        "projectName": "Konya_Hiermayer.Packages.BL.Tests",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Tests\\Konya_Hiermayer.Packages.BL.Tests.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL\\Konya_Hiermayer.Packages.BL.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL\\Konya_Hiermayer.Packages.BL.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.15.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL\\Konya_Hiermayer.Packages.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL\\Konya_Hiermayer.Packages.BL.csproj",
+        "projectName": "Konya_Hiermayer.Packages.BL",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL\\Konya_Hiermayer.Packages.BL.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Exceptions\\Konya_Hiermayer.Packages.BL.Exceptions.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Interfaces\\Konya_Hiermayer.Packages.BL.Interfaces.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "GeoAPI.Core": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj",
+        "projectName": "Konya_Hiermayer.Packages.DAL.Entities",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj",
+        "projectName": "Konya_Hiermayer.Packages.DAL.Interfaces",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "GeoAPI.Core": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj",
+        "projectName": "Konya_Hiermayer.Packages.DAL.SQL",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "GeoAPI.Core": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj",
+        "projectName": "Konya_Hiermayer.Packages.Mapping",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "NetTopologySuite.IO.GeoJSON": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj",
+        "projectName": "Konya_Hiermayer.Packages.ServiceAgents.Interfaces",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Geocoding.Core": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj",
+        "projectName": "Konya_Hiermayer.Packages.Services.DTOs",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.Services.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

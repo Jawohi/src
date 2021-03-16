@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Tests\\Konya_Hiermayer.Packages.ServiceAgents.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj",
+        "projectName": "Konya_Hiermayer.Packages.ServiceAgents.Interfaces",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Geocoding.Core": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Tests\\Konya_Hiermayer.Packages.ServiceAgents.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Tests\\Konya_Hiermayer.Packages.ServiceAgents.Tests.csproj",
+        "projectName": "Konya_Hiermayer.Packages.ServiceAgents.Tests",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Tests\\Konya_Hiermayer.Packages.ServiceAgents.Tests.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
+              },
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
+        "projectName": "Konya_Hiermayer.Packages.ServiceAgents",
+        "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
+        "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lukas\\Desktop\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Geocoding.Core": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Nominatim.API": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

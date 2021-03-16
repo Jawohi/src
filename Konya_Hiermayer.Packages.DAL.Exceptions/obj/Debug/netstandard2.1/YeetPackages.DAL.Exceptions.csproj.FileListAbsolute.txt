@@ -1,0 +1,9 @@
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.deps.json
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.pdb
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.dll
+C:\Users\Lukas\Desktop\swagger_new\src\Konya_Hiermayer.Packages.DAL.Exceptions\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Exceptions.pdb

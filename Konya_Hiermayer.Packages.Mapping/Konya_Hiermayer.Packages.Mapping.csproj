@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Entities\Konya_Hiermayer.Packages.BL.Entities.csproj" />
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.Entities\Konya_Hiermayer.Packages.DAL.Entities.csproj" />
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.Services.DTOs\Konya_Hiermayer.Packages.Services.DTOs.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1"/>
+    <PackageReference Include="NetTopologySuite.IO.GeoJSON" Version="2.0.4"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite" Version="5.0.1"/>
+  </ItemGroup>
+</Project>

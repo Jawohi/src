@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.Mapping\Konya_Hiermayer.Packages.Mapping.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Entities\Konya_Hiermayer.Packages.BL.Entities.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Exceptions\Konya_Hiermayer.Packages.BL.Exceptions.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.BL.Interfaces\Konya_Hiermayer.Packages.BL.Interfaces.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.Entities\Konya_Hiermayer.Packages.DAL.Entities.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.Interfaces\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.DAL.SQL\Konya_Hiermayer.Packages.DAL.SQL.csproj"/>
+    <ProjectReference Include="..\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1"/>
+    <PackageReference Include="FluentValidation" Version="9.3.0"/>
+    <PackageReference Include="GeoAPI.Core" Version="1.7.5"/>
+  </ItemGroup>
+</Project>
