@@ -1,0 +1,15 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.csprojAssemblyReference.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.csproj.CopyComplete
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.SQL\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.SQL.pdb

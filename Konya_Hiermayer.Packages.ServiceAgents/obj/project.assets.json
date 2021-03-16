@@ -4573,24 +4573,28 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
       "Geocoding.Core >= 4.0.1",
-      "Nominatim.API >= 1.6.0",
-      "Konya_Hiermayer.Packages.ServiceAgents.Interfaces >= 1.0.0"
+      "Konya_Hiermayer.Packages.ServiceAgents.Interfaces >= 1.0.0",
+      "Nominatim.API >= 1.6.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Morris\\.nuget\\packages\\": {}
+    "C:\\Users\\hierm\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
+      "projectUniqueName": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
       "projectName": "Konya_Hiermayer.Packages.ServiceAgents",
-      "projectPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
-      "packagesPath": "C:\\Users\\Morris\\.nuget\\packages\\",
-      "outputPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents\\obj\\",
+      "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.ServiceAgents\\Konya_Hiermayer.Packages.ServiceAgents.csproj",
+      "packagesPath": "C:\\Users\\hierm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.ServiceAgents\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Morris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hierm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4603,8 +4607,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
-              "projectPath": "C:\\sks_neww\\swagger_new\\src\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
+            "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj"
             }
           }
         }
@@ -4642,7 +4646,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

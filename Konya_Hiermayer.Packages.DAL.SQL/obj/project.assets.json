@@ -7303,19 +7303,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\hierm\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj",
+      "projectUniqueName": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj",
       "projectName": "Konya_Hiermayer.Packages.DAL.SQL",
-      "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.SQL\\obj\\",
+      "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.SQL\\Konya_Hiermayer.Packages.DAL.SQL.csproj",
+      "packagesPath": "C:\\Users\\hierm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.SQL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hierm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7328,11 +7332,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
+            "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+              "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
             },
-            "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"
+            "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.Interfaces\\Konya_Hiermayer.Packages.DAL.Interfaces.csproj"
             }
           }
         }
@@ -7378,7 +7382,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

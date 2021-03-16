@@ -1,0 +1,10 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.csprojAssemblyReference.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb

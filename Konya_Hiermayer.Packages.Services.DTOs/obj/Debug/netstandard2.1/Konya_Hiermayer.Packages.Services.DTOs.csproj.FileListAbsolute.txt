@@ -1,0 +1,9 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.csprojAssemblyReference.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.Services.DTOs\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.Services.DTOs.pdb

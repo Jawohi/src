@@ -1,0 +1,9 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.csprojAssemblyReference.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.BL.Entities\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.BL.Entities.pdb

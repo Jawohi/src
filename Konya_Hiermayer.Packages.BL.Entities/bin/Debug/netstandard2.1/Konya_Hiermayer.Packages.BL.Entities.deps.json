@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Konya_Hiermayer.Packages.BL.Entities/1.0.0": {
+        "runtime": {
+          "Konya_Hiermayer.Packages.BL.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konya_Hiermayer.Packages.BL.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Entities.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.csprojAssemblyReference.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.csproj.CopyComplete
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.DAL.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.DAL.Interfaces.pdb

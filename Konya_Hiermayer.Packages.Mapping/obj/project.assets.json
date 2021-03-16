@@ -8499,19 +8499,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\hierm\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj",
+      "projectUniqueName": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj",
       "projectName": "Konya_Hiermayer.Packages.Mapping",
-      "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.Mapping\\obj\\",
+      "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.Mapping\\Konya_Hiermayer.Packages.Mapping.csproj",
+      "packagesPath": "C:\\Users\\hierm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.Mapping\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hierm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8524,14 +8528,14 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj"
+            "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj": {
+              "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.BL.Entities\\Konya_Hiermayer.Packages.BL.Entities.csproj"
             },
-            "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
+            "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj": {
+              "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.DAL.Entities\\Konya_Hiermayer.Packages.DAL.Entities.csproj"
             },
-            "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Downloads\\src\\src\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj"
+            "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj": {
+              "projectPath": "C:\\Users\\hierm\\Documents\\SKS_CS\\src-1\\Konya_Hiermayer.Packages.Services.DTOs\\Konya_Hiermayer.Packages.Services.DTOs.csproj"
             }
           }
         }
@@ -8573,7 +8577,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

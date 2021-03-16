@@ -1,0 +1,9 @@
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.deps.json
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\bin\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csprojAssemblyReference.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.AssemblyInfoInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.AssemblyInfo.cs
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.dll
+C:\Users\hierm\Documents\SKS_CS\src-1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces\obj\Debug\netstandard2.1\Konya_Hiermayer.Packages.ServiceAgents.Interfaces.pdb
