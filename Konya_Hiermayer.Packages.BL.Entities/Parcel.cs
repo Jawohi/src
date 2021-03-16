@@ -83,6 +83,7 @@ namespace Konya_Hiermayer.Packages.BL.Entities
                         break;
                     }
             }
+
         }
 
         public void ReportDelivery()

@@ -88,6 +88,7 @@ namespace Konya_Hiermayer.Packages.BL
                 Hop recipientHop = this.mapper.Map<Hop>(dataRecipientHop);
                 Warehouse warehouse = this.mapper.Map<Warehouse>(dataWarehouse);
 
+                
                 logger.LogDebug($"calculating route between sender {senderHop.Code} and recipeint {recipientHop.Code}");
                 List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code, businessParcel.EntryDate);
                 
@@ -97,7 +98,7 @@ namespace Konya_Hiermayer.Packages.BL
                 List<HopArrival> pastHop = new List<HopArrival>();
                 foreach (HopArrival ha in route)
                 {
-                    if (ha.DateTime < DateTime.Now)
+                    if (ha.DateTime < DateTime.Now )
                     {
                         // beide listen befüllen
                         pastHop.Add(ha);

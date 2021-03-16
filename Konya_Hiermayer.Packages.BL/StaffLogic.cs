@@ -89,7 +89,11 @@ namespace Konya_Hiermayer.Packages.BL
         }
 
         public void ReportParcelHop(string parcelID, string code)
-        {
+        {   
+
+
+
+
             Data.Parcel dataParcel;
             try
             {
@@ -100,8 +104,6 @@ namespace Konya_Hiermayer.Packages.BL
             {
                 throw new BusinessLayerException("DAL Exception", e);
             }
-
-            Parcel businessParcel = this.mapper.Map<Parcel>(dataParcel);
             Data.Hop dataHop;
             try
             {
@@ -113,8 +115,53 @@ namespace Konya_Hiermayer.Packages.BL
                 throw new BusinessLayerException("DAL Exception", e);
 
             }
+
+            Parcel businessParcel = this.mapper.Map<Parcel>(dataParcel);
             Hop businessHop = this.mapper.Map<Hop>(dataHop);
             businessParcel.ReportHop(businessHop);
+
+            if(code == businessParcel.FutureHops[0].Hop.Code)
+            {
+                businessParcel.VisitedHops.Add(businessParcel.FutureHops[0]);
+                businessParcel.FutureHops.Remove(businessParcel.FutureHops[0]);
+            }
+
+            /*
+            if (code == businessParcel.FutureHops[0].Code)
+            {
+                switch (businessHop.)
+                {
+                    case "Warehouse":
+                        businessParcel.State = BL.Entities.Parcel.StateEnum.InTransportEnum;
+
+                        break;
+                    case "Truck":
+                        businessParcel.State = BL.Entities.Parcel.StateEnum.InTruckDeliveryEnum;
+
+                        break;
+                    case "Transferwarehouse":
+                        TransferToWarehouse(businessParcel, hop);
+                        businessParcel.State = BL.Entities.Parcel.StateEnum.TransferredEnum;
+
+                        break;
+                    default:
+                        break;
+                }
+
+
+                webHookAgent.NotifyStateChanged(dalParcel);
+
+                businessParcel.VisitedHops.Add(dalParcel.FutureHops[0]);
+                businessParcel.FutureHops.Remove(dalParcel.FutureHops[0]);
+
+                parcelRepository.Update(dalParcel);
+
+            }
+            */
+
+
+
+
 
             string senderGeoString = businessParcel.Sender.ToGeoCodingString();
             string recipientGeoString = businessParcel.Recipient.ToGeoCodingString();
@@ -161,8 +208,7 @@ namespace Konya_Hiermayer.Packages.BL
             Warehouse warehouse = this.mapper.Map<Warehouse>(dataWarehouse);
 
             logger.LogDebug($"calculating route betweend sender {senderHop.Code} and recipeint {recipientHop.Code}");
-            List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code, businessParcel.EntryDate);
-            //List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code);    
+            List<HopArrival> route = routeCalculator.CalculateRoute(warehouse, senderHop.Code, recipientHop.Code, businessParcel.EntryDate);    
 
             bool checkIfOnRoute = false;
 
